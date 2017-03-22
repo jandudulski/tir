@@ -9,13 +9,13 @@ it's worth to sometimes go back and share or remind myself the topic again.
 
 ### Categories
 
-* [Todo](#todo)
+* [GraphQL](#graphql)
 
 ---
 
-### Todo
+### GraphQL
 
-- [Todo](todo/todo.md)
+- [Is GraphQL The End of REST Style APIs?](graphql/is-graphql-the-end-of-rest-style-apis.md)
 
 ## About
 
