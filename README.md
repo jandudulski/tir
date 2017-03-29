@@ -9,9 +9,14 @@ it's worth to sometimes go back and share or remind myself the topic again.
 
 ### Categories
 
+* [Containers](#containers)
 * [GraphQL](#graphql)
 
 ---
+
+### Containers
+
+- [Setting the Record Straight: containers vs. Zones vs. Jails vs. VMs](containers/containers-zones-jails-vms.md)
 
 ### GraphQL
 
