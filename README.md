@@ -11,6 +11,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 
 * [Containers](#containers)
 * [GraphQL](#graphql)
+* [Ops](#ops)
 
 ---
 
@@ -21,6 +22,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### GraphQL
 
 - [Is GraphQL The End of REST Style APIs?](graphql/is-graphql-the-end-of-rest-style-apis.md)
+
+### Ops
+
+- [DNSSEC - What It Is and Why It Is Important?](ops/dnssec-what-it-is-and-why-it-is-important.md)
 
 ## About
 
