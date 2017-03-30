@@ -26,6 +26,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### Ops
 
 - [DNSSEC - What It Is and Why It Is Important?](ops/dnssec-what-it-is-and-why-it-is-important.md)
+- [Monitoring Phoenix](ops/monitoring-phoenix.md)
 
 ## About
 
