@@ -10,6 +10,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### Categories
 
 * [Containers](#containers)
+* [DDD](#ddd)
 * [GraphQL](#graphql)
 * [Ops](#ops)
 
@@ -18,6 +19,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### Containers
 
 - [Setting the Record Straight: containers vs. Zones vs. Jails vs. VMs](containers/containers-zones-jails-vms.md)
+
+### DDD
+
+- [Why classes eventually reach 50 columns and hundreds of methods](ddd/why-classes-eventually-reach-50-columns-and-hundreds-of-methods.md)
 
 ### GraphQL
 
