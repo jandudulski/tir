@@ -12,6 +12,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 * [Containers](#containers)
 * [DDD](#ddd)
 * [GraphQL](#graphql)
+* [Monitoring](#monitoring)
 * [Ops](#ops)
 
 ---
@@ -28,10 +29,14 @@ it's worth to sometimes go back and share or remind myself the topic again.
 
 - [Is GraphQL The End of REST Style APIs?](graphql/is-graphql-the-end-of-rest-style-apis.md)
 
+### Monitoring
+
+- [Monitoring Phoenix](ops/monitoring-phoenix.md)
+- [QA in Production](monitoring/qa-in-production.md)
+
 ### Ops
 
 - [DNSSEC - What It Is and Why It Is Important?](ops/dnssec-what-it-is-and-why-it-is-important.md)
-- [Monitoring Phoenix](ops/monitoring-phoenix.md)
 
 ## About
 
