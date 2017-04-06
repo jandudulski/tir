@@ -11,6 +11,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 
 * [Containers](#containers)
 * [DDD](#ddd)
+* [JWT](#jwt)
 * [Git](#git)
 * [GraphQL](#graphql)
 * [Monitoring](#monitoring)
@@ -25,6 +26,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### DDD
 
 - [Why classes eventually reach 50 columns and hundreds of methods](ddd/why-classes-eventually-reach-50-columns-and-hundreds-of-methods.md)
+
+### JWT
+
+- [Stop using JWT for sessions](jwt/stop-using-jwt-for-sessions.md)
 
 ### Git
 
