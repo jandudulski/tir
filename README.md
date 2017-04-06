@@ -11,6 +11,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 
 * [Containers](#containers)
 * [DDD](#ddd)
+* [Git](#git)
 * [GraphQL](#graphql)
 * [Monitoring](#monitoring)
 * [Ops](#ops)
@@ -24,6 +25,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### DDD
 
 - [Why classes eventually reach 50 columns and hundreds of methods](ddd/why-classes-eventually-reach-50-columns-and-hundreds-of-methods.md)
+
+### Git
+
+- [Better Git Configuration](git/better-git-configuration.md)
 
 ### GraphQL
 
