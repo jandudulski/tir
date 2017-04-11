@@ -11,6 +11,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 
 * [Containers](#containers)
 * [DDD](#ddd)
+* [Electron](#electron)
 * [JWT](#jwt)
 * [Git](#git)
 * [GraphQL](#graphql)
@@ -26,6 +27,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### DDD
 
 - [Why classes eventually reach 50 columns and hundreds of methods](ddd/why-classes-eventually-reach-50-columns-and-hundreds-of-methods.md)
+
+### Electron
+
+- [Electron is flash for the desktop](electron/electron-is-flash-for-the-desktop.md)
 
 ### JWT
 
