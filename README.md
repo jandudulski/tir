@@ -12,6 +12,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 * [Containers](#containers)
 * [DDD](#ddd)
 * [Electron](#electron)
+* [Elixir](#elixir)
 * [JWT](#jwt)
 * [Git](#git)
 * [GraphQL](#graphql)
@@ -31,6 +32,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### Electron
 
 - [Electron is flash for the desktop](electron/electron-is-flash-for-the-desktop.md)
+
+### Elixir
+
+- [Killer Elixir-Tips](elixir/killer-elixir-tips.md)
 
 ### JWT
 
