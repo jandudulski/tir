@@ -18,6 +18,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 * [GraphQL](#graphql)
 * [Monitoring](#monitoring)
 * [Ops](#ops)
+* [Programming](#programming)
 * [Ruby](#ruby)
 * [Tmux](#tmux)
 
@@ -59,6 +60,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### Ops
 
 - [DNSSEC - What It Is and Why It Is Important?](ops/dnssec-what-it-is-and-why-it-is-important.md)
+
+### Programming
+
+- [Modern Software Over-Engineering Mistakes](programming/modern-software-over-engineering-mistakes.md)
 
 ### Ruby
 
