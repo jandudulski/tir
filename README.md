@@ -17,6 +17,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 * [JWT](#jwt)
 * [Git](#git)
 * [GraphQL](#graphql)
+* [Leadership](#leadership)
 * [Monitoring](#monitoring)
 * [Ops](#ops)
 * [Programming](#programming)
@@ -56,6 +57,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### GraphQL
 
 - [Is GraphQL The End of REST Style APIs?](graphql/is-graphql-the-end-of-rest-style-apis.md)
+
+### Leadership
+
+- [Action is the answer](leadership/action-is-the-answer.md)
 
 ### Monitoring
 
