@@ -61,6 +61,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### Leadership
 
 - [Action is the answer](leadership/action-is-the-answer.md)
+- [On being a bad manager](leadership/on-being-a-bad-manager.md)
 
 ### Monitoring
 
