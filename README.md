@@ -67,6 +67,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 
 - [Monitoring Phoenix](ops/monitoring-phoenix.md)
 - [QA in Production](monitoring/qa-in-production.md)
+- [Why Averages Suck and Percentiles are Great](monitoring/why-averages-suck-and-percentiles-are-great.md)
 
 ### Ops
 
