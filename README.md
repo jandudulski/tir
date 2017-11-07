@@ -80,6 +80,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Modern Software Over-Engineering Mistakes](programming/modern-software-over-engineering-mistakes.md)
 - [YAGNI, Cargo Cult and Overengineering - the Planes Won't Land Just Because You Built a Runway in Your Backyard](programming/yagni-cargo-cult-and-overengineering.md)
 - [Global Mutable State](programming/global-mutable-state.md)
+- [Functional Programming Jargon](programming/functional-programming-jargon.md)
 
 ### Ruby
 
