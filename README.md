@@ -82,6 +82,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Global Mutable State](programming/global-mutable-state.md)
 - [Functional Programming Jargon](programming/functional-programming-jargon.md)
 - [Software Estimation in the Fractal Dimenstion](programming/software-estimation-in-the-fractal-dimension.md)
+- [The joys of maintenance programming](programming/the-joys-of-maintenance-programming.md)
 
 ### Ruby
 
