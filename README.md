@@ -92,6 +92,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### Security
 
 - [The Absurdly Underestimated Dangers of CSV Injection](security/csv-injection.md)
+- [I’m harvesting credit card numbers and passwords from your site. Here’s how.](security/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how.md)
 
 ### Tmux
 
