@@ -23,6 +23,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 * [Programming](#programming)
 * [Ruby](#ruby)
 * [Security](#security)
+* [Testing](#testing)
 * [Tmux](#tmux)
 
 ---
@@ -92,6 +93,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### Security
 
 - [The Absurdly Underestimated Dangers of CSV Injection](security/csv-injection.md)
+
+### Testing
+
+- [Why Factories?](testing/why-factories.md)
 
 ### Tmux
 
