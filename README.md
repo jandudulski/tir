@@ -15,6 +15,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 * [Elixir](#elixir)
 * [Elm](#elm)
 * [JWT](#jwt)
+* [General](#general)
 * [Git](#git)
 * [GraphQL](#graphql)
 * [Leadership](#leadership)
@@ -51,6 +52,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### JWT
 
 - [Stop using JWT for sessions](jwt/stop-using-jwt-for-sessions.md)
+
+### General
+
+- [Slack is the opposite of organizational memory](general/slack-is-the-opposite-of-organizational-memory.md)
 
 ### Git
 
