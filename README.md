@@ -11,6 +11,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 
 * [Containers](#containers)
 * [DDD](#ddd)
+* [DevOps](#devops)
 * [Electron](#electron)
 * [Elixir](#elixir)
 * [Elm](#elm)
@@ -36,6 +37,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### DDD
 
 - [Why classes eventually reach 50 columns and hundreds of methods](ddd/why-classes-eventually-reach-50-columns-and-hundreds-of-methods.md)
+
+### DevOps
+
+- [DevOps vs ITSM: Which side are you on?](devops/devops-vs-itsm.md)
 
 ### Electron
 
