@@ -91,6 +91,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Software Estimation in the Fractal Dimenstion](programming/software-estimation-in-the-fractal-dimension.md)
 - [The joys of maintenance programming](programming/the-joys-of-maintenance-programming.md)
 - [How to be a Great Programmer: Awareness, Understanding, and Responsibility](programming/how-to-be-a-great-programmer.md)
+- [The DRY obsession](programming/the-dry-obsession.md)
 
 ### Ruby
 
