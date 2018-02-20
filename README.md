@@ -61,6 +61,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### General
 
 - [Slack is the opposite of organizational memory](general/slack-is-the-opposite-of-organizational-memory.md)
+- [Why Toys?](general/why-toys.md)
 
 ### Git
 
