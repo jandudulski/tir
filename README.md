@@ -111,6 +111,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### Testing
 
 - [Why Factories?](testing/why-factories.md)
+- [Software Testing Anti-patterns](testing/software-testing-antipatterns.md)
 
 ### Tmux
 
