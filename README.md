@@ -78,6 +78,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [On being a bad manager](leadership/on-being-a-bad-manager.md)
 - [Stop asking your employees this one question - it's hurting them](leadership/how-can-i-help-you.md)
 - [The 8 best questions to put on your next one-on-one meeting agenda](leadership/the-8-best-questions-to-put-on-your-next-one-on-one-meeting-agenda.md)
+- [The Little Trade-Offs](leadership/the-little-tradeoffs.md)
 
 ### Monitoring
 
