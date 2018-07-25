@@ -10,6 +10,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### Categories
 
 * [Containers](#containers)
+* [CQRS](#cqrs)
 * [DDD](#ddd)
 * [DevOps](#devops)
 * [Electron](#electron)
@@ -34,6 +35,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 
 - [Setting the Record Straight: containers vs. Zones vs. Jails vs. VMs](containers/containers-zones-jails-vms.md)
 - [Docker is the dangerous gamble which we will regret](containers/docker-is-the-dangerous-gamble-which-we-will-regret.md)
+
+### CQRS
+
+- [Clarified CQRS](cqrs/clarified-cqrs.md)
 
 ### DDD
 
