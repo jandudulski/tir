@@ -106,6 +106,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [The joys of maintenance programming](programming/the-joys-of-maintenance-programming.md)
 - [How to be a Great Programmer: Awareness, Understanding, and Responsibility](programming/how-to-be-a-great-programmer.md)
 - [The DRY obsession](programming/the-dry-obsession.md)
+- [Software disenchantment](programming/software-disenchantment.md)
 
 ### Ruby
 
