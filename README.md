@@ -69,6 +69,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Slack is the opposite of organizational memory](general/slack-is-the-opposite-of-organizational-memory.md)
 - [Why Toys?](general/why-toys.md)
 - [The Tragedy Of The Commons](general/the-tragedy-of-the-commons.md)
+- [Is language just a tool?](general/is-language-just-a-tool.md)
 
 ### Git
 
