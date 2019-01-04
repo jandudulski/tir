@@ -110,6 +110,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [The DRY obsession](programming/the-dry-obsession.md)
 - [Software disenchantment](programming/software-disenchantment.md)
 - [On Being A Senior Engineer](programming/on-being-a-senior-engineer.md)
+- [Should I read papers?](programming/should-i-read-papers.md)
 
 ### Ruby
 
