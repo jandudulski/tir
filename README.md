@@ -112,6 +112,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [On Being A Senior Engineer](programming/on-being-a-senior-engineer.md)
 - [Should I read papers?](programming/should-i-read-papers.md)
 - [So You Want to be a Functional Programmer](programming/so-you-want-to-be-a-functional-programmer.md)
+- [Why Programmers Need Limits](programming/why-programmers-need-limits.md)
 
 ### Ruby
 
