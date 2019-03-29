@@ -9,17 +9,17 @@ it's worth to sometimes go back and share or remind myself the topic again.
 
 ### Categories
 
-* [Containers](#containers)
 * [CQRS](#cqrs)
+* [Containers](#containers)
 * [DDD](#ddd)
 * [DevOps](#devops)
 * [Electron](#electron)
 * [Elixir](#elixir)
 * [Elm](#elm)
-* [JWT](#jwt)
 * [General](#general)
 * [Git](#git)
 * [GraphQL](#graphql)
+* [JWT](#jwt)
 * [Leadership](#leadership)
 * [Monitoring](#monitoring)
 * [Ops](#ops)
@@ -28,6 +28,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 * [Security](#security)
 * [Testing](#testing)
 * [Tmux](#tmux)
+* [Vim](#vim)
 
 ---
 
@@ -132,6 +133,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### Tmux
 
 - [Benefits of using tmux - lessons from streamlining a development environment](tmux/benefits-of-using-tmux-lessons-from-streamlining-a-development-environment.md)
+
+### Vim
+
+- [You don't need more than one cursor in vim](vim/you-dont-need-more-than-one-cursor-in-vim.md)
 
 ## About
 
