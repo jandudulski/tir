@@ -116,6 +116,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [So You Want to be a Functional Programmer](programming/so-you-want-to-be-a-functional-programmer.md)
 - [Why Programmers Need Limits](programming/why-programmers-need-limits.md)
 - [Was MongoDB Ever the Right Choice](programming/was-mongodb-ever-the-right-choice.md)
+- [Is High Quality Software Worth the Cost?](programming/is-high-quality-software-worth-the-cost.md)
 
 ### Ruby
 
