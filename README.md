@@ -56,6 +56,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### Elixir
 
 - [Killer Elixir-Tips](elixir/killer-elixir-tips.md)
+- [Introducing reducees](elixir/introducing-reducees.md)
 
 ### Elm
 
