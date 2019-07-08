@@ -16,6 +16,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 * [Electron](#electron)
 * [Elixir](#elixir)
 * [Elm](#elm)
+* [EventSourcing](#eventsourcing)
 * [General](#general)
 * [Git](#git)
 * [GraphQL](#graphql)
@@ -61,6 +62,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### Elm
 
 - [Elm In Production: 25,000 Lines Later](elm/elm-in-production-25000-lines-later.md)
+
+### EventSourcing
+
+- [The Missing Post About Event Sourcing](eventsourcing/the-missing-post-about-event-sourcing.md)
 
 ### JWT
 
