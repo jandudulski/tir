@@ -59,6 +59,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Killer Elixir-Tips](elixir/killer-elixir-tips.md)
 - [Introducing reducees](elixir/introducing-reducees.md)
 - [The misunderstanding of “let it crash”](elixir/the-misunderstanding-of-let-it-crash.md)
+- [Better domain modeling in Elixir with sum types](elixir/better-domain-modeling-in-elixir-with-sum-types.md)
 
 ### Elm
 
