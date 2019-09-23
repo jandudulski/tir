@@ -125,6 +125,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Why Programmers Need Limits](programming/why-programmers-need-limits.md)
 - [Was MongoDB Ever the Right Choice](programming/was-mongodb-ever-the-right-choice.md)
 - [Is High Quality Software Worth the Cost?](programming/is-high-quality-software-worth-the-cost.md)
+- [Password Rules Are Bullshit](programming/password-rules-are-bullshit.md)
 
 ### Ruby
 
