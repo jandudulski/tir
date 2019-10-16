@@ -45,6 +45,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### DDD
 
 - [Why classes eventually reach 50 columns and hundreds of methods](ddd/why-classes-eventually-reach-50-columns-and-hundreds-of-methods.md)
+- [Effective Aggregate Design](ddd/effective-aggregate-design.md)
 
 ### DevOps
 
