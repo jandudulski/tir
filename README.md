@@ -131,6 +131,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 ### Ruby
 
 - [SOL\[I\]D - Interface Segregation Principle](ruby/solid-interface-segregation-principle.md)
+- [Refactoring Ruby with Monads](ruby/refactoring-ruby-with-monads.md)
 
 ### Security
 
