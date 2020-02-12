@@ -81,6 +81,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [The Tragedy Of The Commons](general/the-tragedy-of-the-commons.md)
 - [Is language just a tool?](general/is-language-just-a-tool.md)
 - [Goals vs. Systems](general/goals-vs-systems.md)
+- [OutomeOverOutput](general/outcomeoveroutput.md)
 
 ### Git
 
