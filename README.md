@@ -82,6 +82,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Is language just a tool?](general/is-language-just-a-tool.md)
 - [Goals vs. Systems](general/goals-vs-systems.md)
 - [OutomeOverOutput](general/outcomeoveroutput.md)
+- [Stop Using Encrypted Email](general/stop-using-encrypted-email.md)
 
 ### Git
 
