@@ -47,6 +47,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Why classes eventually reach 50 columns and hundreds of methods](ddd/why-classes-eventually-reach-50-columns-and-hundreds-of-methods.md)
 - [Effective Aggregate Design](ddd/effective-aggregate-design.md)
 - [Modular software design - 10 common mistakes](ddd/modular-software-design-mistakes.md)
+- [Always-Valid Domain Model](ddd/always-valid-domain-model.md)
 
 ### DevOps
 
