@@ -86,6 +86,8 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Goals vs. Systems](general/goals-vs-systems.md)
 - [OutomeOverOutput](general/outcomeoveroutput.md)
 - [Stop Using Encrypted Email](general/stop-using-encrypted-email.md)
+- [How to Write Email with Military Precision](general/how-to-write-email-with-military-precision.md)
+
 
 ### Git
 
