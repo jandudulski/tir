@@ -65,6 +65,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Better domain modeling in Elixir with sum types](elixir/better-domain-modeling-in-elixir-with-sum-types.md)
 - [Function currying in Elixir](elixir/function-currying-in-elixir.md)
 - [A More Type-Driven Elixir Workflow? Maybe](elixir/a-more-type-driven-elixir-workflow-maybe.md)
+- [Towards Maintainable Elixir: The Core and the Interface](elixir/towards-maintainable-elixir-the-core-and-the-interface.md)
 
 ### Elm
 
