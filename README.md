@@ -138,6 +138,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Is High Quality Software Worth the Cost?](programming/is-high-quality-software-worth-the-cost.md)
 - [Password Rules Are Bullshit](programming/password-rules-are-bullshit.md)
 - [Goodbye, Clean Code](programming/goodbye-clean-code.md)
+- [On the Criteria To Be Used in Decomposing Systems into Modules](programming/on-the-criteria-to-be-used-in-decomposing-systems-into-modules.md)
 
 ### Ruby
 
