@@ -49,6 +49,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Modular software design - 10 common mistakes](ddd/modular-software-design-mistakes.md)
 - [Always-Valid Domain Model](ddd/always-valid-domain-model.md)
 - [SQL, JSON, and Domain Objects](ddd/sql-json-and-domain-objects.md)
+- [Validation and DDD](ddd/validation-and-ddd.md)
 
 ### DevOps
 
