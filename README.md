@@ -141,6 +141,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Password Rules Are Bullshit](programming/password-rules-are-bullshit.md)
 - [Goodbye, Clean Code](programming/goodbye-clean-code.md)
 - [On the Criteria To Be Used in Decomposing Systems into Modules](programming/on-the-criteria-to-be-used-in-decomposing-systems-into-modules.md)
+- [Exceptions for flow control in C#](programming/exceptions-for-flow-control.md)
 
 ### Ruby
 
