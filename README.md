@@ -143,6 +143,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Goodbye, Clean Code](programming/goodbye-clean-code.md)
 - [On the Criteria To Be Used in Decomposing Systems into Modules](programming/on-the-criteria-to-be-used-in-decomposing-systems-into-modules.md)
 - [Exceptions for flow control in C#](programming/exceptions-for-flow-control.md)
+- [C# code contracts vs input validation](programming/code-contracts-vs-input-validation.md)
 
 ### Ruby
 
