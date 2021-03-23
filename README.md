@@ -69,6 +69,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [A More Type-Driven Elixir Workflow? Maybe](elixir/a-more-type-driven-elixir-workflow-maybe.md)
 - [Towards Maintainable Elixir: The Core and the Interface](elixir/towards-maintainable-elixir-the-core-and-the-interface.md)
 - [Towards Maintainable Elixir: Boundaries](elixir/towards-maintainable-elixir-boundaries.md)
+- [Towards Maintainable Elixir: The Anatomy of a Core Module](elixir/towards-maintainable-elixir-the-anatomy-of-a-core-module.md)
 
 ### Elm
 
