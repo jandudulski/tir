@@ -50,6 +50,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Always-Valid Domain Model](ddd/always-valid-domain-model.md)
 - [SQL, JSON, and Domain Objects](ddd/sql-json-and-domain-objects.md)
 - [Validation and DDD](ddd/validation-and-ddd.md)
+- [DDD Strategic Patterns: How To Define Bounded Contexts](ddd/ddd-strategic-patterns-how-to-define-bounded-contexts.md)
 
 ### DevOps
 
