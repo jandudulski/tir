@@ -71,6 +71,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Towards Maintainable Elixir: The Core and the Interface](elixir/towards-maintainable-elixir-the-core-and-the-interface.md)
 - [Towards Maintainable Elixir: Boundaries](elixir/towards-maintainable-elixir-boundaries.md)
 - [Towards Maintainable Elixir: The Anatomy of a Core Module](elixir/towards-maintainable-elixir-the-anatomy-of-a-core-module.md)
+- [How to compose and refactor Ecto queries with Queries Modules](elixir/composable-elixir-ecto-queries-modules.md)
 
 ### Elm
 
