@@ -96,6 +96,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [OutomeOverOutput](general/outcomeoveroutput.md)
 - [Stop Using Encrypted Email](general/stop-using-encrypted-email.md)
 - [How to Write Email with Military Precision](general/how-to-write-email-with-military-precision.md)
+- [The "It's Just Like..." Heuristic](general/its-just-like-heuristic.md)
 
 
 ### Git
