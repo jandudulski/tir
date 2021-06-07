@@ -151,6 +151,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [C# code contracts vs input validation](programming/code-contracts-vs-input-validation.md)
 - [Being A Developer After 40](programming/being-a-developer-after-40.md)
 - [Static methods considered evil?](programming/static-methods-evil.md)
+- [Nulls in Value Objects](programming/nulls-in-value-objects.md)
 
 ### Ruby
 
