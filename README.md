@@ -160,6 +160,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [SOL\[I\]D - Interface Segregation Principle](ruby/solid-interface-segregation-principle.md)
 - [Refactoring Ruby with Monads](ruby/refactoring-ruby-with-monads.md)
 - [RuboCoping with legacy: Bring your Ruby code up to Standard](ruby/rubocoping-with-legacy-bring-your-ruby-code-up-to-standard.md)
+- [Rubocop: Custom Cops for Custom Needs](ruby/rubocop-custom-cops-for-custom-needs.md)
 
 ### Security
 
