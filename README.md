@@ -154,6 +154,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Being A Developer After 40](programming/being-a-developer-after-40.md)
 - [Static methods considered evil?](programming/static-methods-evil.md)
 - [Nulls in Value Objects](programming/nulls-in-value-objects.md)
+- [Reflections on 10,000 Hours of Programming](programming/reflections-on-10000-hours-of-programming.md)
 
 ### Ruby
 
