@@ -173,6 +173,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Why Factories?](testing/why-factories.md)
 - [Software Testing Anti-patterns](testing/software-testing-antipatterns.md)
 - [The Self-Contained Test](testing/the-self-contained-test.md)
+- [Testing your JSON API in Ruby with dry-rb](testing/testing-your-json-api-in-ruby-with-dry-rb.md)
 
 ### Tmux
 
