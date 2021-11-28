@@ -22,6 +22,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 * [GraphQL](#graphql)
 * [JWT](#jwt)
 * [Leadership](#leadership)
+* [Life](#life)
 * [Monitoring](#monitoring)
 * [Ops](#ops)
 * [Programming](#programming)
@@ -118,6 +119,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [The Little Trade-Offs](leadership/the-little-tradeoffs.md)
 - [Do I truly want to become a manager?](leadership/do-i-truly-want-to-become-a-manager.md)
 - [Why feedback is never worthwhile](leadership/why-feedback-is-never-worthwhile.md)
+
+### Life
+
+- [Tales of the Autistic Developer - The Ecstasy of the Void](life/tales-of-the-autistic-developer-the-ecstasy-of-the-void.md)
 
 ### Monitoring
 
