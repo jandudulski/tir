@@ -9,8 +9,9 @@ it's worth to sometimes go back and share or remind myself the topic again.
 
 ### Categories
 
-* [CQRS](#cqrs)
+* [Agile](#agile)
 * [Containers](#containers)
+* [CQRS](#cqrs)
 * [DDD](#ddd)
 * [DevOps](#devops)
 * [Electron](#electron)
@@ -33,6 +34,10 @@ it's worth to sometimes go back and share or remind myself the topic again.
 * [Vim](#vim)
 
 ---
+
+### Agile
+
+- [Agile Waste: Stop Using Story Points. Now.](agile/agile-waste-story-points.md)
 
 ### Containers
 
