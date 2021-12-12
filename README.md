@@ -124,6 +124,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [The Little Trade-Offs](leadership/the-little-tradeoffs.md)
 - [Do I truly want to become a manager?](leadership/do-i-truly-want-to-become-a-manager.md)
 - [Why feedback is never worthwhile](leadership/why-feedback-is-never-worthwhile.md)
+- [What do executives do, anyway?](leadership/what-do-executives-do-anyway.md)
 
 ### Life
 
