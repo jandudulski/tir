@@ -168,6 +168,7 @@ it's worth to sometimes go back and share or remind myself the topic again.
 - [Reflections on 10,000 Hours of Programming](programming/reflections-on-10000-hours-of-programming.md)
 - [Documentation in an Agile Org](programming/documentation-in-an-agile-org.md)
 - [AHA Programming](programming/aha-programming.md)
+- [So a product manager asks you to fix a bug…](programming/so-a-product-manager-asks-you-to-fix-a-bug.md)
 
 ### Ruby
 
